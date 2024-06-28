@@ -1,0 +1,731 @@
+2023-06-28 17:06:38,780 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:06:57,480 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 52621) 
+2023-06-28 17:06:57,480 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:08:10,873 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:08:11,781 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 34654) 
+2023-06-28 17:08:11,781 - DEBUG - [line 45 in ue_statistics.py] new data received 
+2023-06-28 17:11:03,501 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:11:21,983 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 44497) 
+2023-06-28 17:11:40,476 - DEBUG - [line 45 in ue_statistics.py] new data received 
+2023-06-28 17:12:45,849 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:12:53,113 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 54112) 
+2023-06-28 17:12:53,113 - DEBUG - [line 45 in ue_statistics.py] new data received 
+2023-06-28 17:13:21,766 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:13:23,123 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 40552) 
+2023-06-28 17:13:23,123 - DEBUG - [line 45 in ue_statistics.py] new data received 
+2023-06-28 17:13:23,123 - DEBUG - [line 83 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:13:23,123 - DEBUG - [line 83 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:13:23,123 - DEBUG - [line 83 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -92 
+2023-06-28 17:13:23,123 - DEBUG - [line 83 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 245 
+2023-06-28 17:13:23,124 - DEBUG - [line 83 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:13:51,880 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:13:59,582 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 34295) 
+2023-06-28 17:14:02,420 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:14:36,432 - DEBUG - [line 82 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:14:42,092 - DEBUG - [line 82 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:14:46,266 - DEBUG - [line 82 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -95 
+2023-06-28 17:15:11,623 - DEBUG - [line 82 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:15:32,578 - DEBUG - [line 82 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:18:48,315 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:18:53,115 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 50748) 
+2023-06-28 17:18:53,115 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:18:53,116 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:18:53,116 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:18:53,116 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -95 
+2023-06-28 17:18:53,116 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:18:53,116 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:18:53,116 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:18:53,116 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:18:53,116 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:18:53,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:18:53,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:18:53,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:18:53,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:18:53,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:18:53,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:18:53,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:18:53,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:18:53,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:18:53,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:18:53,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:18:53,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -950 
+2023-06-28 17:18:53,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 210 
+2023-06-28 17:18:53,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:18:53,117 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:19:03,117 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 45104) 
+2023-06-28 17:19:03,117 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:19:03,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:19:03,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:19:03,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -95 
+2023-06-28 17:19:03,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:19:03,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:19:03,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:19:03,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:19:03,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:19:03,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:19:03,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:19:03,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:19:03,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:19:03,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:19:03,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:19:03,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:19:03,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:19:03,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:19:03,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:19:03,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:19:03,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -950 
+2023-06-28 17:19:03,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 205 
+2023-06-28 17:19:03,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:19:03,118 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:19:13,121 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 57152) 
+2023-06-28 17:19:13,121 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:19:13,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:19:13,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:19:13,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -94 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -970 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 195 
+2023-06-28 17:19:13,122 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:19:13,123 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:19:23,117 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 48824) 
+2023-06-28 17:19:23,117 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:19:23,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -95 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -940 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 215 
+2023-06-28 17:19:23,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:19:23,118 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:19:33,122 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 37177) 
+2023-06-28 17:19:33,122 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -98 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:19:33,122 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:19:33,123 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -960 
+2023-06-28 17:19:33,123 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 190 
+2023-06-28 17:19:33,123 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:19:33,123 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:19:43,113 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 41006) 
+2023-06-28 17:19:43,114 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:19:43,114 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:19:43,114 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:19:43,114 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -95 
+2023-06-28 17:19:43,114 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:19:43,114 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:19:43,114 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:19:43,114 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:19:43,114 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:19:43,114 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:19:43,114 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:19:43,114 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:19:43,114 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:19:43,114 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:19:43,114 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:19:43,114 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:19:43,114 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:19:43,114 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:19:43,114 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:19:43,115 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:19:43,115 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -960 
+2023-06-28 17:19:43,115 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 195 
+2023-06-28 17:19:43,115 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:19:43,115 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:19:53,120 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 57842) 
+2023-06-28 17:19:53,120 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:19:53,120 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:19:53,120 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:19:53,120 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -99 
+2023-06-28 17:19:53,120 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:19:53,120 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:19:53,120 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:19:53,120 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:19:53,120 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:19:53,120 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:19:53,120 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:19:53,120 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:19:53,121 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:19:53,121 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:19:53,121 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:19:53,121 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:19:53,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:19:53,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:19:53,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:19:53,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:19:53,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -1000 
+2023-06-28 17:19:53,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 150 
+2023-06-28 17:19:53,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:19:53,121 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:20:03,123 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 50569) 
+2023-06-28 17:20:03,124 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:20:03,124 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:20:03,124 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:20:03,124 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -92 
+2023-06-28 17:20:03,124 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:20:03,124 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:20:03,124 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:20:03,124 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:20:03,124 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:20:03,124 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:20:03,125 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:20:03,125 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:20:03,125 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:20:03,125 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:20:03,125 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:20:03,125 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:20:03,125 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:20:03,125 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:20:03,125 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:20:03,125 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:20:03,125 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -920 
+2023-06-28 17:20:03,125 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 225 
+2023-06-28 17:20:03,125 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:20:03,126 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:20:13,117 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 33973) 
+2023-06-28 17:20:13,117 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -93 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:20:13,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:20:13,119 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -930 
+2023-06-28 17:20:13,119 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 225 
+2023-06-28 17:20:13,119 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:20:13,119 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:20:23,125 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 42044) 
+2023-06-28 17:20:23,125 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:20:23,126 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:20:23,126 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:20:23,126 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -95 
+2023-06-28 17:20:23,126 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:20:23,126 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:20:23,126 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:20:23,126 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:20:23,126 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:20:23,126 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:20:23,126 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:20:23,126 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:20:23,126 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:20:23,126 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:20:23,127 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:20:23,127 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:20:23,127 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:20:23,127 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:20:23,127 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:20:23,127 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:20:23,127 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -960 
+2023-06-28 17:20:23,127 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 200 
+2023-06-28 17:20:23,127 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:20:23,127 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:20:33,118 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 36794) 
+2023-06-28 17:20:33,118 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:20:33,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:20:33,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:20:33,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -98 
+2023-06-28 17:20:33,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:20:33,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:20:33,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:20:33,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:20:33,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:20:33,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:20:33,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:20:33,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:20:33,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:20:33,118 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:20:33,119 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:20:33,119 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:20:33,119 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:20:33,119 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:20:33,119 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:20:33,119 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:20:33,119 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -980 
+2023-06-28 17:20:33,119 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 180 
+2023-06-28 17:20:33,119 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:20:33,119 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:20:43,120 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 56831) 
+2023-06-28 17:20:43,120 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:20:43,120 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:20:43,120 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:20:43,120 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -96 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -940 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 210 
+2023-06-28 17:20:43,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:20:43,121 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:20:53,128 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 41019) 
+2023-06-28 17:20:53,128 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:20:53,128 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:20:53,128 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:20:53,128 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -99 
+2023-06-28 17:20:53,128 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:20:53,128 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:20:53,128 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:20:53,128 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:20:53,128 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:20:53,128 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:20:53,128 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:20:53,128 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:20:53,128 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:20:53,129 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:20:53,129 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:20:53,129 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:20:53,129 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:20:53,129 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:20:53,129 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:20:53,129 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:20:53,129 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -1000 
+2023-06-28 17:20:53,129 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 150 
+2023-06-28 17:20:53,129 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:20:53,129 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:21:03,116 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 33712) 
+2023-06-28 17:21:03,116 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:21:03,116 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:21:03,116 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:21:03,116 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -96 
+2023-06-28 17:21:03,116 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:21:03,116 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:21:03,116 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:21:03,116 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:21:03,116 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:21:03,116 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:21:03,116 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:21:03,116 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:21:03,116 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:21:03,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:21:03,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:21:03,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:21:03,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:21:03,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:21:03,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:21:03,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:21:03,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -940 
+2023-06-28 17:21:03,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 210 
+2023-06-28 17:21:03,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:21:03,117 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:21:13,116 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 50594) 
+2023-06-28 17:21:13,117 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:21:13,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:21:13,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:21:13,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -97 
+2023-06-28 17:21:13,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:21:13,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:21:13,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:21:13,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:21:13,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:21:13,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:21:13,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:21:13,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:21:13,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:21:13,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:21:13,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:21:13,117 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:21:13,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:21:13,117 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:21:13,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:21:13,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:21:13,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -960 
+2023-06-28 17:21:13,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 190 
+2023-06-28 17:21:13,118 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:21:13,118 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:21:23,111 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 36257) 
+2023-06-28 17:21:23,112 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -92 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -920 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 225 
+2023-06-28 17:21:23,112 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:21:23,112 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:21:33,118 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 40343) 
+2023-06-28 17:21:33,119 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:21:33,119 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:21:33,119 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:21:33,119 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -93 
+2023-06-28 17:21:33,119 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:21:33,120 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:21:33,120 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:21:33,120 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:21:33,120 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:21:33,120 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:21:33,120 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:21:33,120 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:21:33,120 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:21:33,120 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:21:33,121 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:21:33,121 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:21:33,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:21:33,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:21:33,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:21:33,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:21:33,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -920 
+2023-06-28 17:21:33,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 240 
+2023-06-28 17:21:33,121 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:21:33,121 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:21:43,113 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 38708) 
+2023-06-28 17:21:43,113 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:21:43,113 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:21:43,113 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:21:43,114 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -92 
+2023-06-28 17:21:43,114 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:21:43,114 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:21:43,114 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:21:43,114 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:21:43,114 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:21:43,114 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:21:43,114 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:21:43,114 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:21:43,114 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:21:43,115 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:21:43,115 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:21:43,115 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:21:43,115 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:21:43,115 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:21:43,115 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:21:43,115 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:21:43,115 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -930 
+2023-06-28 17:21:43,115 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 215 
+2023-06-28 17:21:43,115 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:21:43,115 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-06-28 17:21:53,110 - DEBUG - [line 35 in ue_statistics.py] message received from ('127.0.0.1', 49913) 
+2023-06-28 17:21:53,110 - DEBUG - [line 44 in ue_statistics.py] new data received 
+2023-06-28 17:21:53,110 - DEBUG - [line 85 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] nas_value_sinr_869814060276197: 8 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -93 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 235 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 28 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 0 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 3680 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 0 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 0 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088641 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 500 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 00102 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -920 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 230 
+2023-06-28 17:21:53,111 - DEBUG - [line 85 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 100 
+2023-06-28 17:21:53,111 - DEBUG - [line 33 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-09-08 10:15:44,131 - DEBUG - [line 32 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-09-08 10:15:50,664 - DEBUG - [line 34 in ue_statistics.py] message received from ('127.0.0.1', 51446) 
+2023-09-08 10:15:50,664 - DEBUG - [line 43 in ue_statistics.py] new data received 
+2023-09-08 10:15:50,664 - DEBUG - [line 32 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-09-08 10:15:51,665 - DEBUG - [line 34 in ue_statistics.py] message received from ('127.0.0.1', 38062) 
+2023-09-08 10:15:51,665 - DEBUG - [line 43 in ue_statistics.py] new data received 
+2023-09-08 10:26:14,052 - DEBUG - [line 32 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-09-08 10:26:14,582 - DEBUG - [line 34 in ue_statistics.py] message received from ('127.0.0.1', 47284) 
+2023-09-08 10:26:14,582 - DEBUG - [line 43 in ue_statistics.py] new data received 
+2023-09-08 10:26:14,582 - DEBUG - [line 86 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-09-08 10:26:14,582 - DEBUG - [line 86 in ue_statistics.py] nas_value_sinr_869814060276197: 9 
+2023-09-08 10:26:14,582 - DEBUG - [line 86 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -97 
+2023-09-08 10:26:14,582 - DEBUG - [line 86 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 290 
+2023-09-08 10:26:14,582 - DEBUG - [line 86 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-09-08 10:26:14,582 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 804515 
+2023-09-08 10:26:14,583 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 862940 
+2023-09-08 10:26:14,583 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-09-08 10:26:14,583 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-09-08 10:26:14,583 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-09-08 10:26:14,583 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-09-08 10:26:14,583 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 337417613 
+2023-09-08 10:26:14,583 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 668972659 
+2023-09-08 10:26:14,583 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 98 
+2023-09-08 10:26:14,583 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-09-08 10:26:14,583 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088897 
+2023-09-08 10:26:14,583 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 498 
+2023-09-08 10:26:14,583 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 99910 
+2023-09-08 10:26:14,583 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-09-08 10:26:14,583 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -980 
+2023-09-08 10:26:14,583 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 300 
+2023-09-08 10:26:14,583 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 102 
+2023-09-08 10:26:14,583 - DEBUG - [line 32 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-09-08 10:26:15,582 - DEBUG - [line 34 in ue_statistics.py] message received from ('127.0.0.1', 47271) 
+2023-09-08 10:26:15,582 - DEBUG - [line 43 in ue_statistics.py] new data received 
+2023-09-08 10:26:15,582 - DEBUG - [line 86 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-09-08 10:26:15,582 - DEBUG - [line 86 in ue_statistics.py] nas_value_sinr_869814060276197: 9 
+2023-09-08 10:26:15,582 - DEBUG - [line 86 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -97 
+2023-09-08 10:26:15,582 - DEBUG - [line 86 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 290 
+2023-09-08 10:26:15,582 - DEBUG - [line 86 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-09-08 10:26:15,582 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 804539 
+2023-09-08 10:26:15,583 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 862963 
+2023-09-08 10:26:15,583 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-09-08 10:26:15,583 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-09-08 10:26:15,583 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-09-08 10:26:15,583 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-09-08 10:26:15,583 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 337420952 
+2023-09-08 10:26:15,583 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 668982989 
+2023-09-08 10:26:15,583 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 98 
+2023-09-08 10:26:15,583 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-09-08 10:26:15,583 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088897 
+2023-09-08 10:26:15,583 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 498 
+2023-09-08 10:26:15,583 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 99910 
+2023-09-08 10:26:15,583 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-09-08 10:26:15,583 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -970 
+2023-09-08 10:26:15,583 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 265 
+2023-09-08 10:26:15,583 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 102 
+2023-09-08 10:26:15,583 - DEBUG - [line 32 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-09-08 10:26:16,583 - DEBUG - [line 34 in ue_statistics.py] message received from ('127.0.0.1', 48111) 
+2023-09-08 10:26:16,583 - DEBUG - [line 43 in ue_statistics.py] new data received 
+2023-09-08 10:26:16,583 - DEBUG - [line 86 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_sinr_869814060276197: 9 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -97 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 290 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 804565 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 862967 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 337426974 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 668983341 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 99 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088897 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 498 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 99910 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -970 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 270 
+2023-09-08 10:26:16,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 102 
+2023-09-08 10:26:16,584 - DEBUG - [line 32 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-09-08 10:26:17,583 - DEBUG - [line 34 in ue_statistics.py] message received from ('127.0.0.1', 54563) 
+2023-09-08 10:26:17,584 - DEBUG - [line 43 in ue_statistics.py] new data received 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_sinr_869814060276197: 9 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -97 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 290 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 804574 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 862983 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 337427840 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 668986114 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 99 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088897 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 498 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 99910 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -960 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 290 
+2023-09-08 10:26:17,584 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 102 
+2023-09-08 10:26:17,584 - DEBUG - [line 32 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-09-08 10:26:18,585 - DEBUG - [line 34 in ue_statistics.py] message received from ('127.0.0.1', 54210) 
+2023-09-08 10:26:18,585 - DEBUG - [line 43 in ue_statistics.py] new data received 
+2023-09-08 10:26:18,586 - DEBUG - [line 86 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-09-08 10:26:18,586 - DEBUG - [line 86 in ue_statistics.py] nas_value_sinr_869814060276197: 9 
+2023-09-08 10:26:18,586 - DEBUG - [line 86 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -97 
+2023-09-08 10:26:18,586 - DEBUG - [line 86 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 290 
+2023-09-08 10:26:18,586 - DEBUG - [line 86 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-09-08 10:26:18,586 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 804578 
+2023-09-08 10:26:18,586 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 862983 
+2023-09-08 10:26:18,586 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-09-08 10:26:18,586 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-09-08 10:26:18,586 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-09-08 10:26:18,586 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-09-08 10:26:18,586 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 337428112 
+2023-09-08 10:26:18,586 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 668986114 
+2023-09-08 10:26:18,587 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 99 
+2023-09-08 10:26:18,587 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-09-08 10:26:18,587 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088897 
+2023-09-08 10:26:18,587 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 498 
+2023-09-08 10:26:18,587 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 99910 
+2023-09-08 10:26:18,587 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-09-08 10:26:18,587 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -980 
+2023-09-08 10:26:18,587 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 305 
+2023-09-08 10:26:18,587 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 102 
+2023-09-08 10:26:18,587 - DEBUG - [line 32 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
+2023-09-08 10:26:19,586 - DEBUG - [line 34 in ue_statistics.py] message received from ('127.0.0.1', 57750) 
+2023-09-08 10:26:19,587 - DEBUG - [line 43 in ue_statistics.py] new data received 
+2023-09-08 10:26:19,587 - DEBUG - [line 86 in ue_statistics.py] nas_value_io_869814060276197: -106 
+2023-09-08 10:26:19,587 - DEBUG - [line 86 in ue_statistics.py] nas_value_sinr_869814060276197: 9 
+2023-09-08 10:26:19,587 - DEBUG - [line 86 in ue_statistics.py] nas_value_5g_signal_strength_rsrp_869814060276197: -97 
+2023-09-08 10:26:19,587 - DEBUG - [line 86 in ue_statistics.py] nas_value_5g_signal_strength_snr_869814060276197: 290 
+2023-09-08 10:26:19,587 - DEBUG - [line 86 in ue_statistics.py] nas_value_5g_signal_strength_extended_869814060276197: -11 
+2023-09-08 10:26:19,587 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_packets_ok_869814060276197: 804581 
+2023-09-08 10:26:19,587 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_packets_ok_869814060276197: 862985 
+2023-09-08 10:26:19,588 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_packets_error_869814060276197: 4294967295 
+2023-09-08 10:26:19,588 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_packets_error_869814060276197: 4294967295 
+2023-09-08 10:26:19,588 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_overflows_869814060276197: 4294967295 
+2023-09-08 10:26:19,588 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_overflows_869814060276197: 4294967295 
+2023-09-08 10:26:19,588 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_bytes_ok_869814060276197: 337428862 
+2023-09-08 10:26:19,588 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_bytes_ok_869814060276197: 668986659 
+2023-09-08 10:26:19,588 - DEBUG - [line 86 in ue_statistics.py] wds_value_tx_packets_dropped_869814060276197: 99 
+2023-09-08 10:26:19,588 - DEBUG - [line 86 in ue_statistics.py] wds_value_rx_packets_dropped_869814060276197: 0 
+2023-09-08 10:26:19,588 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_global_cell_id_869814060276197: 19088897 
+2023-09-08 10:26:19,588 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_physical_cell_id_869814060276197: 498 
+2023-09-08 10:26:19,588 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_plmn_869814060276197: 99910 
+2023-09-08 10:26:19,588 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_rsrp_869814060276197: -110 
+2023-09-08 10:26:19,588 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_rsrq_869814060276197: -980 
+2023-09-08 10:26:19,589 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_snr_869814060276197: 285 
+2023-09-08 10:26:19,589 - DEBUG - [line 86 in ue_statistics.py] nas_value_nr5g_cell_information_tracking_area_code_869814060276197: 102 
+2023-09-08 10:26:19,589 - DEBUG - [line 32 in ue_statistics.py] 
+waiting to receive a new message on 5007...
+ 
